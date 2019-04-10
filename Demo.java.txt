@@ -1,0 +1,8 @@
+public class Demo {
+	public demo(){
+		aada
+	}
+	public dwqeemo(){
+		aada
+	}
+}
