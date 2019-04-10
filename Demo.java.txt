@@ -1,5 +1,5 @@
 public class Demo {
-	public demo(){
+	public de2mo(){
 		aada
 	}
 	public dwqeemo(){
